@@ -21,4 +21,4 @@ git clone https://github.com/MASTER-404/UA
 
 cd UA
 
-python UA.py
+python ua.py
